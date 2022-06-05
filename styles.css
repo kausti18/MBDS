@@ -34,13 +34,29 @@
 
  .body-width-signup{
     width:30%;
-    text-align: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* text-align: center;
     align-content: centers;
     margin-left: 35%;
-    margin-top: 4%;
+    margin-top: 4%; */
     background-color: #ADD8E6;
  }
 
  .registration{
      background-color: #ADD8E6;
  }
+
+.registrationForm{
+    align-items: center;
+    position: absolute;
+left: 50%;
+top: 50%;
+margin-top: 200px;
+margin-bottom: 10%;
+padding-bottom: 30px;
+transform: translate(-50%, -50%);
+}
