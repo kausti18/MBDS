@@ -60,3 +60,21 @@ margin-bottom: 10%;
 padding-bottom: 30px;
 transform: translate(-50%, -50%);
 }
+.cardss{
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.middle{
+    width: 20%;
+    margin-left: 40%;
+}
